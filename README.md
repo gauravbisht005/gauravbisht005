@@ -17,7 +17,7 @@
 
 
 ### Wanna play multiplayers:
-[<img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-ar21.svg">](https://steamcommunity.com/profiles/76561198840742986/) [<img src="https://www.vectorlogo.zone/logos/xbox/xbox-ar21.svg">]() [<img src="">]()
+[<img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-ar21.svg">](https://steamcommunity.com/profiles/76561198840742986/) [<img src="https://www.vectorlogo.zone/logos/xbox/xbox-ar21.svg">]()
 
 
 If you like my work do :star: my repositories and also follow me!!
