@@ -2,11 +2,11 @@
 
 
 
- 🔭 I’m currently studying at KIIT College of Engineering, Gurgaon
- 🌱 I’m currently learning Data Science and Deutsch :de:
- :heart: Likes :soccer: :video_game: :iphone: :desktop_computer:
- 😄 Pronouns: ...
- ⚡ Goto Aphorism: Prepare for the best but be prepared for the worst!
+- 🔭 I’m currently studying at KIIT College of Engineering, Gurgaon
+- 🌱 I’m currently learning Data Science and Deutsch :de:
+- :heart: Likes :soccer: :video_game: :iphone: :desktop_computer:
+- 😄 Pronouns: ...
+- ⚡ Goto Aphorism: Prepare for the best but be prepared for the worst!
 
 ### 👯 Collaborate with me on: 
 [<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg">](https://www.kaggle.com/gauravbisht005) [<img src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg">](https://youtube.com/channel/UCZPFwk2SZJQKDYdjLNQb1Ug)
