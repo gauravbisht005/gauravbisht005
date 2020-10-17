@@ -3,9 +3,8 @@
 
 
 - 🔭 I’m currently studying at KIIT College of Engineering, Gurgaon
-- 🌱 I’m currently learning Data Science and Deutsch
-- 🤔 I’m looking for help with ...
-- 💬 Have a discussion on 
+- 🌱 I’m currently learning Data Science and Deutsch :de:
+- :heart: Likes :soccer: :video_game: :iphone: :desktop_computer:
 - 😄 Pronouns: ...
 - ⚡ Goto Aphorism: Prepare for the best but be prepared for the worst!
 
