@@ -20,6 +20,11 @@
 [<img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-ar21.svg">](https://steamcommunity.com/profiles/76561198840742986/) [<img src="https://www.vectorlogo.zone/logos/xbox/xbox-ar21.svg">]()
 
 
+<a href="https://github.com/gauravbisht005">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravbisht005&show_icons=true&hide_border=tru" />
+</a>
+
+
 If you like my work do :star: my repositories and also follow me!!
 
 
