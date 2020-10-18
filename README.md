@@ -26,8 +26,10 @@
 
 
 <div align="center">
+  
  **If you like my work do :star: my repositories and also follow me!!**
 
 
-  [![HitCount](http://hits.dwyl.com/gauravbisht005/gauravbisht005.svg)](http://hits.dwyl.com/gauravbisht005/gauravbisht005)
+ [![HitCount](http://hits.dwyl.com/gauravbisht005/gauravbisht005.svg)](http://hits.dwyl.com/gauravbisht005/gauravbisht005)
+ 
 </div>
