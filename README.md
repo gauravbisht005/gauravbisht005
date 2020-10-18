@@ -3,7 +3,7 @@
 
 - 👨‍🎓 I’m currently studying at KIIT College of Engineering, Gurgaon
 - 🌱 I’m currently learning Data Science and Deutsch :de:
-- :heart: Likes :soccer: Sports :video_game: Gadgets :iphone: & Technologies :desktop_computer:
+- :heart: Likes :soccer: Sports :video_game: Gadgets :iphone: Automobiles :red_car: & Technologies :desktop_computer:
 - ⚡ Goto Aphorism: Prepare for the best but be prepared for the worst!
 
 
