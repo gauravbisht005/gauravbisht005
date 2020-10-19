@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Gaurav Bisht](https://github.com/gauravbisht005) 👨‍💻
+### Hi there 👋, I'm [Gaurav Bisht](https://github.com/gauravbisht005) :adult:
 
 
 - 👨‍🎓 I’m currently studying at KIIT College of Engineering, Gurgaon
@@ -17,7 +17,7 @@
 
 
 ### Wanna play multiplayers:
-[<img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-ar21.svg">](https://steamcommunity.com/profiles/76561198840742986/) [<img src="https://www.vectorlogo.zone/logos/xbox/xbox-ar21.svg">]()
+[<img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-ar21.svg">](https://steamcommunity.com/profiles/76561198840742986/) [<img src="https://www.vectorlogo.zone/logos/xbox/xbox-ar21.svg">](https://account.xbox.com/en-in/Profile?xr=socialtwistnav)
 
 
 <a href="https://github.com/gauravbisht005">
