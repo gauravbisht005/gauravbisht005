@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Gaurav Bisht](https://github.com/gauravbisht005) :adult:
+### Hi there <img src="https://github.com/gauravbisht005/gauravbisht005/blob/master/Assets/Hi.gif" width="29px">, I'm [Gaurav Bisht](https://github.com/gauravbisht005) :adult:
 
 
 - 👨‍🎓 I’m currently studying at KIIT College of Engineering, Gurgaon
