@@ -8,7 +8,7 @@
 
 
 ### 👯 Collaborate with me on: 
-<a src="https://www.kaggle.com/gauravbisht005" target="_blank"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a>
+[<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg">](https://www.kaggle.com/gauravbisht005)
 [<img src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg">](https://youtube.com/channel/UCZPFwk2SZJQKDYdjLNQb1Ug) [<img src="https://www.vectorlogo.zone/logos/codepen/codepen-ar21.svg">](https://codepen.io/gauravbisht005)
 
 
