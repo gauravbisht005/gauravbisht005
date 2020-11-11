@@ -32,9 +32,9 @@
 <div align="center">
 
 
-**If you like my work do :star: my repositories and also follow me!!**
+**If you like my work do :star: my repositories and if you wish, do follow me as well!!**
 
 
-[![HitCount](http://hits.dwyl.com/gauravbisht005/gauravbisht005.svg)](http://hits.dwyl.com/gauravbisht005/gauravbisht005)
+[![HitCount](http://hits.dwyl.com/gauravbisht005/gauravbisht005.svg)](http://hits.dwyl.com/gauravbisht005/gauravbisht005.github.io)
  
 </div>
