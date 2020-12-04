@@ -9,7 +9,7 @@
 
 ### 👯 Collaborate with me on: 
 [<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg">](https://www.kaggle.com/gauravbisht005)
-[<img src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg">](https://youtube.com/channel/UCZPFwk2SZJQKDYdjLNQb1Ug) [<img src="https://www.vectorlogo.zone/logos/codepen/codepen-ar21.svg">](https://codepen.io/gauravbisht005) [<img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg".](https://in.pinterest.com/immaZEUS/)
+[<img src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg">](https://youtube.com/channel/UCZPFwk2SZJQKDYdjLNQb1Ug) [<img src="https://www.vectorlogo.zone/logos/codepen/codepen-ar21.svg">](https://codepen.io/gauravbisht005) [<img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg">](https://in.pinterest.com/immaZEUS/)
 
 
 ### 📫 Connect with me on: 
