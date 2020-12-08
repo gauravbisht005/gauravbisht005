@@ -21,14 +21,6 @@
 [<img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-ar21.svg">](https://steamcommunity.com/profiles/76561198840742986/) [<img src="https://www.vectorlogo.zone/logos/xbox/xbox-ar21.svg">](https://account.xbox.com/en-in/Profile?xr=socialtwistnav)
 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=gauravbisht005)](https://github.com/gauravbisht005/github-readme-stats)
-
-
-<a align="right" href="https://github.com/gauravbisht005">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravbisht005&show_icons=true&hide_border=tru" />
-</a>
-
-
 <div align="center">
 
 
