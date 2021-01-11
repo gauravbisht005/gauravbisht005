@@ -17,7 +17,7 @@
 [<img src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg">](https://www.facebook.com/gaurav.bisht17) [<img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg">](https://discord.com/channels/@Me_Jarvis#2831) [<img src="https://www.vectorlogo.zone/logos/reddit/reddit-ar21.svg">](https://www.reddit.com/user/Gaurav_Bisht)
 
 
-### Wanna play multiplayers?
+### 🎮 Multiplayers?
 [<img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-ar21.svg">](https://steamcommunity.com/profiles/76561198840742986/) [<img src="https://www.vectorlogo.zone/logos/xbox/xbox-ar21.svg">](https://account.xbox.com/en-in/Profile?xr=socialtwistnav)
 
 
