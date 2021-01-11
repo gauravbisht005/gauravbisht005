@@ -27,6 +27,6 @@
 **If you like my work do :star: my repositories and if you wish, do follow me as well!!**
 
 
-[![HitCount](http://hits.dwyl.com/gauravbisht005/gauravbisht005.svg)](http://hits.dwyl.com/gauravbisht005/gauravbisht005.github.io)
+![](https://komarev.com/ghpvc/?username=gauravbisht005&color=brightgreen)
  
 </div>
