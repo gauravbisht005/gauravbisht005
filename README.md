@@ -18,7 +18,7 @@
 
 
 ### 💻 Languages & Tools:
-https://www.vectorlogo.zone/logos/python/python-icon.svg 
+<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
 
 
 ### 🎮 Multiplayers?
