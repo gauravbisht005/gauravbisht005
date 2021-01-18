@@ -14,7 +14,7 @@
 
 ### 📫 Connect with me on: 
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">](https://www.linkedin.com/in/gauravbisht005) [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg">](https://twitter.com/Jarvis_Me) [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg">](https://www.instagram.com/gaurav_bisht17/) 
-[<img src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg">](https://www.facebook.com/gaurav.bisht17) [<img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg">](https://discord.com/channels/@Me_Jarvis#2831) [<img src="https://www.vectorlogo.zone/logos/reddit/reddit-ar21.svg">](https://www.reddit.com/user/Gaurav_Bisht)
+[<img src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg">](https://www.facebook.com/gaurav.bisht17) [<img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg">](https://discord.com/channels/@Me_Jarvis#2831)
 
 
 ### 💻 Languages/ Tools/ Frameworks and Libraries:
