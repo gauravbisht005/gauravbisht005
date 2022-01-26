@@ -2,7 +2,7 @@
 
 
 - 💻 I’m currently working as an Associate Development Consultant in [Sequentum India](https://www.linkedin.com/company/sequentum-india-pvt-ltd/)
-- 👨‍🎓 By education I have completed my Bachelor's in Computer Science Engineering from KIITCOE '21
+- 👨‍🎓 By education I have completed my Bachelors in Computer Science Engineering from KIITCOE '21
 - 🌱 Diving into the Concepts of Data Science and Deutsch :de:
 - :heart: Likes :soccer: Sports :video_game: Gadgets :iphone: Automobiles :blue_car: & Technologies :desktop_computer:
 - ⚡ Goto Aphorism: Prepare for the best but be prepared for the worst!
