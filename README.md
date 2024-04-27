@@ -10,7 +10,7 @@
 
 ### 👯 Let's Collaborate: 
 [<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg">](https://www.kaggle.com/gauravbisht005)
-[<img src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg">](https://youtube.com/channel/UCZPFwk2SZJQKDYdjLNQb1Ug) [<img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-ar21.svg">](https://in.pinterest.com/immaZEUS/)
+[<img src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg">](https://www.youtube.com/@gauravbisht005) [<img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-ar21.svg">](https://in.pinterest.com/immaZEUS/)
 
 
 ### 📫 Connect with me on: 
