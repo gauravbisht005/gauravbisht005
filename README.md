@@ -1,7 +1,7 @@
 ### Hey there 👋, I'm [Gaurav Bisht](https://github.com/gauravbisht005) :adult:
 
 
-- 💻 I’m currently working as a Senior Development Consultant in [Sequentum India](https://www.linkedin.com/company/sequentum-india-pvt-ltd/)
+- 💻 I’m currently working as a Senior Development Consultant in [Sequentum India](https://www.linkedin.com/company/sequentum/)
 - 👨‍🎓 By education I have completed my Bachelors in Computer Science Engineering from KIITCOE '21
 - 🌱 Diving into the Concepts of Data Science and Deutsch :de:
 - :heart: Likes :soccer: Sports :video_game: Gadgets :iphone: Automobiles :blue_car: & Technologies :desktop_computer:
